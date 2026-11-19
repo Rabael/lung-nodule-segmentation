@@ -10,3 +10,4 @@ gradio
 pytest
 jupyter
 ipykernel
+boto3
