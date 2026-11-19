@@ -11,3 +11,4 @@ pytest
 jupyter
 ipykernel
 boto3
+pandas
