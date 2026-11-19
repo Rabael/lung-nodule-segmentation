@@ -1,0 +1,12 @@
+monai
+nibabel
+SimpleITK
+numpy
+scipy
+matplotlib
+pyyaml
+tqdm
+gradio
+pytest
+jupyter
+ipykernel
